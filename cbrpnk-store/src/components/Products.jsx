@@ -10,7 +10,7 @@ const Products = () => {
 					alt='Image Description'
 				/>
 				<div className='p-4 md:p-5'>
-					<h3 className='text-lg font-bold text-gray-800 dark:text-white'>Card title</h3>
+					<h3 className='text-lg font-bold text-gray-800 dark:text-white'>Product Name</h3>
 					<p className='mt-1 text-gray-800 dark:text-gray-400'>
 						yesyesyes
 					</p>
