@@ -1,0 +1,303 @@
+[
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 1
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 2
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 3
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 4
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 5
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 6
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 7
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 8
+    },
+    {
+        "name": "Girl Hoodie",
+        "price": 39.99,
+        "category": "hoodie",
+        "img": "item link here",
+        "id": 9
+    },
+    {
+        "name": "Arasaka Mug",
+        "price": 14.99,
+        "category": "mug",
+        "img": "item link here",
+        "id": 10
+    },
+    {
+        "name": "Arasaka Mug",
+        "price": 14.99,
+        "category": "mug",
+        "img": "item link here",
+        "id": 11
+    },
+    {
+        "name": "Arasaka Mug",
+        "price": 14.99,
+        "category": "mug",
+        "img": "item link here",
+        "id": 12
+    },
+    {
+        "name": "Arasaka Mug",
+        "price": 14.99,
+        "category": "mug",
+        "img": "item link here",
+        "id": 13
+    },
+    {
+        "name": "Arasaka Mug",
+        "price": 14.99,
+        "category": "mug",
+        "img": "item link here",
+        "id": 14
+    },
+    {
+        "name": "Posters",
+        "price": 13.99,
+        "category": "posters",
+        "img": "item link here",
+        "id": 15
+    },
+    {
+        "name": "Posters",
+        "price": 13.99,
+        "category": "posters",
+        "img": "item link here",
+        "id": 16
+    },
+    {
+        "name": "Posters",
+        "price": 13.99,
+        "category": "posters",
+        "img": "item link here",
+        "id": 17
+    },
+    {
+        "name": "Posters",
+        "price": 13.99,
+        "category": "posters",
+        "img": "item link here",
+        "id": 18
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 19
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 20
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 21
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 22
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 23
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 24
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 25
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 26
+    },
+    {
+        "name": "Sweatshirt",
+        "price": 39.99,
+        "category": "sweatshirts",
+        "img": "item link here",
+        "id": 27
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 28
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 29
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 30
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 31
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 32
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 33
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 34
+    },
+    {
+        "name": "T-shirt",
+        "price": 29.99,
+        "category": "tees",
+        "img": "item link here",
+        "id": 35
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 36
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 37
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 38
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 39
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 40
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 41
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 42
+    },
+    {
+        "name": "Phone case",
+        "price": 12.99,
+        "category": "cases",
+        "img": "item link here",
+        "id": 43
+    }
+]
