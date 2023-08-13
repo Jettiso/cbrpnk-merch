@@ -5,7 +5,7 @@ import Products from "../components/Products";
 
 const Shop = () => {
 	return ( 
-    <div className="grid grid-cols-8 gap-4">
+    <div className="grid grid-cols-8 gap-4 p-6 flex-wrap">
         <div className="col-span-2">{<Accordion />}</div>
         <div className="col-span-6 flex">{<Products />}</div>
     </div>
