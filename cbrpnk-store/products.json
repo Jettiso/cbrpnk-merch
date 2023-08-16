@@ -3,427 +3,385 @@
 		"name": "Girl Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603650/hoodies/girl_hoodie_iijgfo.jpg",
 		"id": 1
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "Lucy Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603649/hoodies/lucy_hoodie_e1ezm1.jpg",
 		"id": 2
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "SadGirl Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603648/hoodies/sadgirl_hoodie_qkbvui.jpg",
 		"id": 3
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "Eva Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603647/hoodies/eva_hoodie_u9f2v2.jpg",
 		"id": 4
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "EdgeRunner Logo Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603646/hoodies/er_logo_hoodie_rs5zbx.jpg",
 		"id": 5
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "CBRPNK Logo Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603646/hoodies/cbrpnk_hoodies_caesqr.jpg",
 		"id": 6
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "Akira Explosion Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603645/hoodies/akira_expo_hoodie_ihivig.jpg",
 		"id": 7
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "Gesha JP Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603645/hoodies/cbrpnk_female_hoodie_tl3gii.jpg",
 		"id": 8
 	},
 	{
-		"name": "Girl Hoodie",
+		"name": "Arasaka Hoodie",
 		"price": 39.99,
 		"category": "hoodie",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603644/hoodies/arasaka_hoodie_p34yro.jpg",
 		"id": 9
 	},
 	{
-		"name": "Arasaka Mug",
+		"name": "Red Pattern Mug",
 		"price": 14.99,
 		"category": "mug",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658684/mugs/pattern_mugs_hngrac.jpg",
 		"id": 10
 	},
 	{
-		"name": "Arasaka Mug",
+		"name": "Maelstrom Mug",
 		"price": 14.99,
 		"category": "mug",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658684/mugs/maelstrom_mugs_jbsc25.jpg",
 		"id": 11
 	},
 	{
-		"name": "Arasaka Mug",
+		"name": "Arasaka BLK Mug",
 		"price": 14.99,
 		"category": "mug",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658684/mugs/arasaka_black_mugs_hxa1ah.jpg",
 		"id": 12
 	},
 	{
-		"name": "Arasaka Mug",
+		"name": "Arasaka WHT Mug",
 		"price": 14.99,
 		"category": "mug",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658684/mugs/arasaka_mugs_n9znfa.jpg",
 		"id": 13
 	},
 	{
-		"name": "Arasaka Mug",
+		"name": "Moxes Mug",
 		"price": 14.99,
 		"category": "mug",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1692155062/mugs/Moxes_mug_wdmxr9.jpg",
 		"id": 14
 	},
 	{
-		"name": "Posters",
+		"name": "Akira Explosion Poster",
 		"price": 13.99,
 		"category": "posters",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658853/posters/akira_explosion_poster_chfmoz.jpg",
 		"id": 15
 	},
 	{
-		"name": "Posters",
+		"name": "Shibuya Street Poster",
 		"price": 13.99,
 		"category": "posters",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658853/posters/city_poster_g2cgt5.jpg",
 		"id": 16
 	},
 	{
-		"name": "Posters",
+		"name": "Dystopia City Poster",
 		"price": 13.99,
 		"category": "posters",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658852/posters/dystopia_poster_vlqwup.jpg",
 		"id": 17
 	},
 	{
-		"name": "Posters",
+		"name": "Akira Poster",
 		"price": 13.99,
 		"category": "posters",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687658853/posters/akira_poster_ummw3l.jpg",
 		"id": 18
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Gharliera Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603898/sweatshirts/gharliera_sweatshirt_uwj9of.jpg",
 		"id": 19
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Yumeko Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603899/sweatshirts/yumeko_sweatshirt_qdbaon.jpg",
 		"id": 20
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Arasaka Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603897/sweatshirts/arasaka_sweatshirt_uo9lqr.jpg",
 		"id": 21
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Becca Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603896/sweatshirts/becca_sweatshirt_jxx7gq.jpg",
 		"id": 22
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "CBRPNK Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603898/sweatshirts/cbrpnk_sweatshirt_d2da8a.jpg",
 		"id": 23
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Kanji Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603898/sweatshirts/jp_sweatshirt_omnbsq.jpg",
 		"id": 24
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Gesha JP Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603897/sweatshirts/cbrpnk_jp_sweatshirt_bkorq3.jpg",
 		"id": 25
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Chibi Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603898/sweatshirts/chibi_sweatshirt_jvpbcg.jpg",
 		"id": 26
 	},
 	{
-		"name": "Sweatshirt",
+		"name": "Gesha JP2 Sweatshirt",
 		"price": 39.99,
 		"category": "sweatshirts",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603898/sweatshirts/cbrpnk_jp2_sweatshirt_ijwnxu.jpg",
 		"id": 27
 	},
 	{
-		"name": "T-shirt",
+		"name": "Gesha Kanji T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603839/tees/cbrpnk2_female_tee_b874e7.jpg",
 		"id": 28
 	},
 	{
-		"name": "T-shirt",
+		"name": "Gharliera T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603838/tees/gharliera_tee_xeepta.jpg",
 		"id": 29
 	},
 	{
-		"name": "T-shirt",
+		"name": "Eva T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603838/tees/evangelion__tee_x45k7r.jpg",
 		"id": 30
 	},
 	{
-		"name": "T-shirt",
+		"name": "Gesha JP T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603838/tees/cbrpnk_female_tee_wxgd04.jpg",
 		"id": 31
 	},
 	{
-		"name": "T-shirt",
+		"name": "Arasaka Logo T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603837/tees/arasaka_white_tee_gzqbda.jpg",
 		"id": 32
 	},
 	{
-		"name": "T-shirt",
+		"name": "Arasaka T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603837/tees/arasaka_white2_tee_tnok21.jpg",
 		"id": 33
 	},
 	{
-		"name": "T-shirt",
+		"name": "Becca T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1692155848/tees/becca_tee_ftq8tb.jpg",
 		"id": 34
 	},
 	{
-		"name": "T-shirt",
+		"name": "Moxes T-shirt",
 		"price": 29.99,
 		"category": "tees",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1692155851/tees/moxes_tee_nxl5rs.jpg",
 		"id": 35
 	},
 	{
-		"name": "Phone case",
+		"name": "Lucy iPhone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603638/cases/lucy_case_sf3mqg.jpg",
 		"id": 36
 	},
 	{
-		"name": "Phone case",
+		"name": "Pixel Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603638/cases/pixel_case_sdyz5q.jpg",
 		"id": 37
 	},
 	{
-		"name": "Phone case",
+		"name": "GeshaJP Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603638/cases/tokyo_cbrpnk_case_ixemjy.jpg",
 		"id": 38
 	},
 	{
-		"name": "Phone case",
+		"name": "Gesha B/W Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603632/cases/cbrpnk_f_case_z2ocl2.jpg",
 		"id": 39
 	},
 	{
-		"name": "Phone case",
+		"name": "Gharliera Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603628/cases/gharliera2_case_l5fcwl.jpg",
 		"id": 40
 	},
 	{
-		"name": "Phone case",
+		"name": "Arasaka BLK Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603627/cases/arasaka_black_case_jjcy8d.jpg",
 		"id": 41
 	},
 	{
-		"name": "Phone case",
+		"name": "Gharliera 2 Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603627/cases/gharliera_case_w3yfz5.jpg",
 		"id": 42
 	},
 	{
-		"name": "Phone case",
+		"name": "Arasaka WHT Phone case",
 		"price": 12.99,
 		"category": "cases",
-		"img": "item link here",
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603626/cases/arasaka_white_case_qel4vp.jpg",
 		"id": 43
 	},
 	{
 		"id": 44,
-		"name": "Bag",
+		"name": "GirlOver Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710111/bags/girl_all_over_print_bag_fgqgsr.jpg"
 	},
 	{
 		"id": 45,
-		"name": "Bag",
+		"name": "Geisha Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710111/bags/geisha_bag_hsjgge.jpg"
 	},
 	{
 		"id": 46,
-		"name": "Bag",
+		"name": "Cotton Tote Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710110/bags/girl_cotton_tote_bag_gwjv1z.jpg"
 	},
 	{
 		"id": 47,
-		"name": "Bag",
+		"name": "Akira Explosion Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710110/bags/akira_explosion_bag_bcuhau.jpg"
 	},
 	{
 		"id": 48,
-		"name": "Bag",
+		"name": "Retro Pattern Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710110/bags/retro_pattern_bag_yintmd.jpg"
 	},
 	{
 		"id": 49,
-		"name": "Bag",
+		"name": "Vaporwave Girl Bag",
 		"price": 13.99,
 		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id":50,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id": 51,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id": 52,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id": 53,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id": 54,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
-	},
-	{
-		"id": 55,
-		"name": "Bag",
-		"price": 13.99,
-		"category": "bags",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710110/bags/vaporwave_girl_bag_cp01ih.jpg"
 	},
 	{
 		"id": 56,
-		"name": "Puzzle",
+		"name": "Dimension Wormhole Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710169/puzzles/dimensional_wormhole_puzzle_oc4ljz.jpg"
 	},
 	{
 		"id": 57,
-		"name": "Puzzle",
+		"name": "Akira Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710169/puzzles/akira_explosion_puzzle_pavnp7.jpg"
 	},
 	{
 		"id": 58,
-		"name": "Puzzle",
+		"name": "NeoFuture Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710168/puzzles/neo_future_street_puzzle_oxalfp.jpg"
 	},
 	{
 		"id": 59,
-		"name": "Puzzle",
+		"name": "Sunset Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710168/puzzles/sunset_landscapse_puzzle_o0vxo0.jpg"
 	},
 	{
 		"id": 60,
-		"name": "Puzzle",
+		"name": "CBRPNK Osaka Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710168/puzzles/cbrpnk_osaka_street_puzzle_fbchvw.jpg"
 	},
 	{
 		"id": 61,
-		"name": "Puzzle",
+		"name": "CBRPNK Street Puzzle",
 		"price": 15.99,
 		"category": "puzzles",
-		"img": "item link here"
+		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1690710168/puzzles/cbrpnk_streets_puzzle_mrzc1b.jpg"
 	}
 ]
