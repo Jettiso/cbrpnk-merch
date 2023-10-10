@@ -11,7 +11,11 @@ const Accordion = () => {
 		const category = event.target.dataset.category;
 		store.setCurrentCategory(category);
 
+		
 	};
+	
+	
+
 
 	return (
 		<>

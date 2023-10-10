@@ -190,7 +190,7 @@
 	},
 	{
 		"name": "Gesha Kanji T-shirt",
-		"price": 29.99,
+		"price": 26.99,
 		"category": "tees",
 		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603839/tees/cbrpnk2_female_tee_b874e7.jpg",
 		"id": 28
@@ -204,14 +204,14 @@
 	},
 	{
 		"name": "Eva T-shirt",
-		"price": 29.99,
+		"price": 26.99,
 		"category": "tees",
 		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603838/tees/evangelion__tee_x45k7r.jpg",
 		"id": 30
 	},
 	{
 		"name": "Gesha JP T-shirt",
-		"price": 29.99,
+		"price": 25.99,
 		"category": "tees",
 		"img": "https://res.cloudinary.com/dp1rpqkjb/image/upload/v1687603838/tees/cbrpnk_female_tee_wxgd04.jpg",
 		"id": 31

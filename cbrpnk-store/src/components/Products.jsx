@@ -27,7 +27,7 @@ const Products = () => {
 		return item.category === store.currentCategory;
 	});
 
-	console.log(products)
+
 
 
 	const isAllCategory = store.currentCategory === "all";
