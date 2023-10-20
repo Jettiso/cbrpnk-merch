@@ -4,16 +4,15 @@ import useStore from "../ZuStore";
 const AllProducts = ({ ...prop }) => {
 	const store = useStore();
 	const all = prop.products;
-
+	
 	const filteredPrice = all.sort((a, b) => {
 		if (store.priceFilter === "highToLow") {
 			return b.price - a.price;
 		} else {
-			return a.price - b.price;
+			return a.price - b.price; 
 		}
 	});
 	
-
 	const allProds = filteredPrice.map((product) => {
 		return (
 			<div

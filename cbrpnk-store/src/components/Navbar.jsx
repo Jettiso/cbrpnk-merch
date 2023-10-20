@@ -1,4 +1,5 @@
 import React from "react";
+import SearchInput from "./SearchInput";
 
 const Navbar = () => {
 	return (
@@ -44,6 +45,7 @@ const Navbar = () => {
 							</button>
 						</div>
 					</div>
+					<SearchInput />
 					<div
 						id='navbar-collapse-with-animation'
 						className='hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block'
