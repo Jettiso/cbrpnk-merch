@@ -6,6 +6,7 @@ let store = (set) => ({
     priceFilter: 'highToLow',
     setPriceFilter: (price) => set({ priceFilter: price }), 
     currentSearch: '',
+    setInputValue: (value) => set({currentSearch: value})
 })
 
 
