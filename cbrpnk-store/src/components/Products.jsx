@@ -26,6 +26,7 @@ const Products = () => {
 
 	const fuse = new Fuse(products, {
 		keys: ["name", "price"],
+
 	});
 
 	
@@ -37,12 +38,12 @@ const Products = () => {
 	const isAllCategory = store.currentCategory === "all";
 
 
-	
+
 
 	return (
 		<>
-		<SearchResults result={res}/> 
-		{/* <AllProducts products={isAllCategory ? products : category} /> */}
+
+		{store.currentSearch ? <SearchResults result={res} /> : <AllProducts products={isAllCategory ? products : category} />}
 		</>
 	);
 };
